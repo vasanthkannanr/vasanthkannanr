@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @vasanthkannanr
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Cloud Technology
+- 👀 I work on BackEnd technologies
+- 🌱 I’m currently learning React.js and node.js
+- 💞️ I’m looking to collaborate on FrontEnd Development and Cloud Technology
